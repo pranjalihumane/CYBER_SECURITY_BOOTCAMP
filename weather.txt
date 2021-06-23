@@ -1,0 +1,7 @@
+-------------------------------------------------------------
+Weather Stats for - NAGPUR  || 23 Jun 2021 | 03:36:28 PM
+-------------------------------------------------------------
+Current temperature is: 29.01 deg C
+Current weather desc  : haze
+Current Humidity      : 74 %
+Current wind speed    : 3.6 kmph
